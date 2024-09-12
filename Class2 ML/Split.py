@@ -1,4 +1,3 @@
-from os import read
 from sklearn.model_selection import train_test_split
 
 xFile = open("/training/news-commentary-v12.cs-en.en")

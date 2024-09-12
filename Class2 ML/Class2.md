@@ -6,6 +6,7 @@ Scikit-learn provides dozens of built-in machine learning algorithms and models,
 - validation
   - used to decide when to stop training
 - testing
+  - Verify how good the model is
 
 
 
